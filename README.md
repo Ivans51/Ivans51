@@ -20,7 +20,6 @@ I'm Ivans. Mobile Developer for 4 years and Web Developer for 3 years. I have wo
 </br>
 </br>
 
-------
 ## SOFT SKILLS
 
 * Clear communication 💬
@@ -29,7 +28,6 @@ I'm Ivans. Mobile Developer for 4 years and Web Developer for 3 years. I have wo
 * Problem solving 🛠️
 * Interpersonal skills 💛
 
-------
 ## WEB SKILLS
 
 * Languages: HTML - CSS - SASS - PHP - Javascript
@@ -48,7 +46,6 @@ I'm Ivans. Mobile Developer for 4 years and Web Developer for 3 years. I have wo
 
 * Deploy: Shared hosting - Heroku - Firebase Hosting and Functions
 
--------
 ## MOBILE SKILLS
 
 * Languages: Java - Kotlin - Dart
@@ -66,8 +63,6 @@ I'm Ivans. Mobile Developer for 4 years and Web Developer for 3 years. I have wo
 * Frameworks: Flutter
 
 
---------
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
@@ -81,7 +76,6 @@ I'm Ivans. Mobile Developer for 4 years and Web Developer for 3 years. I have wo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
---------
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
    
