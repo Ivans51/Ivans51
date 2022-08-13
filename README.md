@@ -2,21 +2,6 @@
 
 I'm Ivans. Mobile Developer for 4 years and Web Developer for 3 years. I have worked as a freelancer for clients in Workana from different countries. I am interested in continuing to learn about new and different technologies.
 
-📫 How to reach me: https://ivansdev.web.app
-
-<a href="https://www.workana.com/freelancer/8c26390acbdca56279caa5af17826abe" title="Workana">
-  <img align="left" alt="Ivans Workana" width="22px" src="https://ivansdev.web.app/assets/img/images/pages/developer/workana.webp" />
-</a>
-<a href="https://linkedin.com/in/ivans-dev/" title="Linkedin">
-  <img align="left" alt="Ivans LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/_Ivans_" title="Twitter">
-  <img align="left" alt="Ivans Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://open.spotify.com/user/7xxyki07bgsqclrmufe9eo7vc?si=fbc04b39553d4eeb" title="Spotify">
-  <img align="left" alt="Ivans Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-
 </br>
 </br>
 
