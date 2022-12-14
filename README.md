@@ -17,13 +17,11 @@ I'm Ivans. Mobile Developer for 4 years and Web Developer for 3 years. I have wo
 
 * Languages: HTML - CSS - SASS - PHP - Javascript
 
-* Database: MySQL
+* Database: MySQL, Postgresql
 
 * Frameworks: Vue 2 & Vue 3 - Angular - Laravel - Lumen - Slim - Express.js
 
-* CMS: Wordpress
-
-* Libraries: MapBox, Google Maps
+* Libraries: MapBox, Google Maps, Tailwind, Bootstrap
 
 * SDK: Firebase
 
