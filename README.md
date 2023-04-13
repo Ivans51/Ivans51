@@ -6,13 +6,13 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Ivans51?style=social)
 
-## ABOUT ME
+## About me
 
 - 🔭 I’m currently working on Workana as Freelancer
 - 🌱 I’m currently learning Docker
 - 📫 How to reach me: https://ivansnext.web.app/
 
-## SOFT SKILLS
+## Soft skills
 
 * Clear communication 💬
 * Adaptation to change 🌪️
@@ -20,7 +20,7 @@
 * Problem solving 🛠️
 * Interpersonal skills 💛
 
-## WEB SKILLS
+## Web skills
 
 * Languages: HTML - CSS - SASS - PHP - Javascript
 * Database: MySQL, Postgresql
@@ -30,7 +30,7 @@
 * Control Version: Git
 * Deploy: Shared hosting - Heroku - Firebase Hosting and Functions
 
-## MOBILE SKILLS
+## Mobile skills
 
 * Languages: Java - Kotlin - Dart
 * Base data: Sqlite
@@ -40,10 +40,14 @@
 * Deploy: Play store - App Store
 * Frameworks: Flutter
 
+## View my stats on Github <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
-   
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivans51&show_icons=true)
+<p align="center">
+<a href="https://github.com/ivans51">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ivans51&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ivans51&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 <!--
