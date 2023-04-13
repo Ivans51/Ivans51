@@ -1,9 +1,16 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hi, I'm <a href="https://ivansnext.web.app">Ivans</a> 👋</h1>
+</div>
 
-I'm Ivans. Mobile Developer for 4 years and Web Developer for 3 years. I have worked as a freelancer for clients in Workana from different countries. I am interested in continuing to learn about new and different technologies.
+![Screenshot from 2023-04-13 07-40-35](https://user-images.githubusercontent.com/24858611/231801349-5b766a5b-c455-40c4-b640-a99a66386b35.png)
 
-</br>
-</br>
+![GitHub followers](https://img.shields.io/github/followers/Ivans51?style=social)
+
+## ABOUT ME
+
+- 🔭 I’m currently working on Workana as Freelancer
+- 🌱 I’m currently learning Docker
+- 📫 How to reach me: https://ivansnext.web.app/
 
 ## SOFT SKILLS
 
@@ -16,48 +23,22 @@ I'm Ivans. Mobile Developer for 4 years and Web Developer for 3 years. I have wo
 ## WEB SKILLS
 
 * Languages: HTML - CSS - SASS - PHP - Javascript
-
 * Database: MySQL, Postgresql
-
 * Frameworks: Vue 2 & Vue 3 - Angular - Laravel - Lumen - Slim - Express.js
-
 * Libraries: MapBox, Google Maps, Tailwind, Bootstrap
-
 * SDK: Firebase
-
 * Control Version: Git
-
 * Deploy: Shared hosting - Heroku - Firebase Hosting and Functions
 
 ## MOBILE SKILLS
 
 * Languages: Java - Kotlin - Dart
-
 * Base data: Sqlite
-
 * Libraries: Retrofit - Google maps - Glide -Picasso - RXJava
-
 * SDK: Firebase
-
 * Control Version: Git
-
 * Deploy: Play store - App Store
-
 * Frameworks: Flutter
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
