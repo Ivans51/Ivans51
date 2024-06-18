@@ -22,21 +22,22 @@
 
 ## Web skills
 
-* Languages: HTML - CSS - SASS - PHP - Javascript
+* Languages: HTML - CSS - SASS
+* Programming Languages: PHP - Javascript - Python 
 * Database: MySQL, Postgresql
-* Frameworks: Vue 2 & Vue 3 - Angular - Laravel - Lumen - Slim - Express.js
+* Frameworks: Laravel - Vue 2 & Vue 3 - Angular - Lumen - Slim - Express.js
 * Libraries: MapBox, Google Maps, Tailwind, Bootstrap
 * SDK: Firebase
-* Control Version: Git
-* Deploy: Shared hosting - Heroku - Firebase Hosting and Functions
+* Version Control: Git
+* Deploy: Shared hosting - Heroku - Firebase Hosting and Functions - Digital ocean
 
 ## Mobile skills
 
 * Languages: Java - Kotlin - Dart
-* Base data: Sqlite
+* Database: Sqlite
 * Libraries: Retrofit - Google maps - Glide -Picasso - RXJava
 * SDK: Firebase
-* Control Version: Git
+* Version Control: Git
 * Deploy: Play store - App Store
 * Frameworks: Flutter
 
