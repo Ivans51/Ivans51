@@ -44,7 +44,7 @@
 ## View my stats on Github <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 <p align="center">
-<a href="https://github.com/ivans51">
+<a href="[https://github.com/ivans51](https://ivans-landig-vue.pages.dev)">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ivans51&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ivans51&layout=compact&langs_count=8&theme=algolia"/>
 </a>
