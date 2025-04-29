@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, I'm <a href="https://ivansnext.web.app">Ivans</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://ivans-landig-vue.pages.dev">Ivans</a> 👋</h1>
 </div>
 
 ![Screenshot from 2023-04-13 07-40-35](https://user-images.githubusercontent.com/24858611/231801349-5b766a5b-c455-40c4-b640-a99a66386b35.png)
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Workana as Freelancer
 - 🌱 I’m currently learning Docker
-- 📫 How to reach me: https://ivansnext.web.app/
+- 📫 How to reach me: [https://ivans-landig-vue/](https://ivans-landig-vue.pages.dev)
 
 ## Soft skills
 
