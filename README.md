@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <a href="https://ivans-landig-vue.pages.dev">Ivans</a> 👋</h1>
 </div>
 
-![Screenshot from 2023-04-13 07-40-35](https://user-images.githubusercontent.com/24858611/231801349-5b766a5b-c455-40c4-b640-a99a66386b35.png)
+![image](https://github.com/user-attachments/assets/204948b0-88ff-4d6e-b788-b60ed7aa58e1)
 
 ![GitHub followers](https://img.shields.io/github/followers/Ivans51?style=social)
 
