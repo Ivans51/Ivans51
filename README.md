@@ -2,15 +2,14 @@
 <h1 align="center">Hi, I'm <a href="https://ivans-landig-vue.pages.dev">Ivans</a> 👋</h1>
 </div>
 
-![image](https://github.com/user-attachments/assets/204948b0-88ff-4d6e-b788-b60ed7aa58e1)
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/eea3d05f-7ca3-4146-b4d3-14d0c3257764" />
 
 ![GitHub followers](https://img.shields.io/github/followers/Ivans51?style=social)
 <a href="https://www.linkedin.com/in/ivans-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 ## About me
 
-- 🚀 Actively developing innovative web and mobile solutions for global clients as a Freelance Full-Stack & Android Developer, often collaborating through platforms like Workana.
-- 💡 Continuously expanding my DevOps toolkit, currently diving deeper into Docker and containerization best practices.
+- Full-stack and Android Developer with 7+ years of experience building complex technological ecosystems. My specialty isn’t just writing code, but designing robust, scalable architectures. I have taken projects from concept to production (and maintenance), specializing in mission-critical systems such as electronic invoicing (CFDI), transportation logistics, and real-time geolocation applications.
 - 📫 How to reach me: [https://ivansdev.pages.dev](https://ivansdev.pages.dev)
 
 ## Soft skills
@@ -25,21 +24,30 @@
 ## 💻 Tech Stack & Skills
 
 ### Frontend Development
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+- Fundamental Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript
+- JavaScript Frameworks/Libraries: Vue.js: Vue 2 & Vue 3 (Composition API), Vuex, Pinia. Angular: (Solid experience, including i18n and Angular Material). React: (Basic knowledge)
 
 ### Backend Development
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-*   **Databases:** MySQL, PostgreSQL, Supabase (PostgreSQL)
+- Main Languages: PHP, Python, JavaScript (Node.js)
+- PHP Frameworks: Laravel (main), Lumen, Slim Framework
+- Node.js Frameworks: Express.js (basic/intermediate)
+- Databases: Relational: PostgreSQL, MySQL. NoSQL / Others: Redis (for cache and queues)
+- APIs: RESTful API Design & Development, Third-party API Consumption (Stripe, PayPal, DocuSign, OpenAI, Gemini AI, Google Maps, YouTube API), API Authentication (Laravel Sanctum, Laravel Passport - OAuth2)
+- BaaS (Backend as a Service): Supabase (PostgreSQL, Auth, Storage, Edge Functions), Firebase
+- Cloud: AWS
 
 ### Mobile App Development
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-*   **Mobile Libraries:** Retrofit, Google Maps API, Glide, Picasso, RxJava
-*   **Databases:** SQLite
+- Main Languages: Kotlin, Java, Dart, Swift (basic)
+- Frameworks: Flutter, Android SDK, Jetpack Compose
+- Native Development: Android Native Development
+- Cross-Platform Development: Flutter (with Dart)
+- Databases / BaaS: Firebase (Firestore, Realtime Database, Authentication), Supabase (basic)
+- APIs & Tools: RESTful API Integration, Google Maps API, Stripe API, Postman, Figma (basic)
+- Architecture & Patterns: MVVM, Clean Architecture, Repository Pattern
+- Distribution & Testing: Google Play Store, Apple App Store (basic), Unit Testing
 
 ### DevOps & Tools
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/> <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare"/>
-*   **Deployment:** Play Store, App Store, Shared Hosting, CI/CD
+*   **Deployment:** Docker, GIT, GitHub, Supabase, Firebase, Heroku, Digital Ocean, Cloudflare, Play Store, App Store, Shared Hosting, CI/CD
 
 ## 🚀 My Featured Projects
 
